@@ -1,3 +1,7 @@
+# Description
+
+Facebook copy by RedGroup - https://www.youtube.com/watch?v=oz9SuoUn5MA&list=PLXkonRjGXZwyCAZf2ANYfhJ0r751ODjCh
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
